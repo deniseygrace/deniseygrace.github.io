@@ -373,7 +373,7 @@ a .list-group-item-info {
     color: #fff;
 }
 
-a .list-group-item-info:hover, .list-group-item-info:focus {
+a.list-group-item-info:hover, a.list-group-item-info:focus {
     color: #fff;
     background-color: #323232;
     border-color: #323232;
