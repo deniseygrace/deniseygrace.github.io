@@ -378,7 +378,3 @@ a.list-group-item-info:hover, a.list-group-item-info:focus {
     background-color: #323232;
     border-color: #323232;
 }
-
-a {
-    target: _blank;
-}
