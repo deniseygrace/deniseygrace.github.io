@@ -91,6 +91,8 @@ a:focus {
 .navbar-custom a {
     color: #fff;
     background-color: #191919;
+    opacity: 0.4;
+    filter: alpha(opacity=40); /* For IE8 and earlier */
 }
 
 .navbar-custom .nav li.active {
