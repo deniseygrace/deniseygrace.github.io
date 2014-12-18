@@ -379,6 +379,6 @@ a.list-group-item-info:hover, a.list-group-item-info:focus {
     border-color: #323232;
 }
 
-.whitetext {
-    color: #e5e5e5;
+a {
+    target: _blank;
 }
