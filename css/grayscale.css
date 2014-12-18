@@ -253,7 +253,7 @@ a:focus {
 }
 
 .download-section {
-    width: 100%;
+    max-width: 100%;
     padding-top: 100px;
     color: #fff;
     background: url(../img/downloads-bg.jpg) no-repeat center center scroll;
@@ -277,7 +277,6 @@ a:focus {
     }
 
     .download-section {
-        
         padding-bottom: 100px;
     }
 
