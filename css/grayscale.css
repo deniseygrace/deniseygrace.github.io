@@ -364,13 +364,13 @@ body {
 }
 
 .list-group-item-info {
-    color: #fff;
+    color: #e5e5e5;
     background-color: #191919;
     border-color: #191919;
 }
 
 a .list-group-item-info {
-    color: #fff;
+    color: #e5e5e5;
 }
 
 a.list-group-item-info:hover, a.list-group-item-info:focus {
