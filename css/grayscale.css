@@ -365,5 +365,16 @@ body {
 
 .list-group-item-info {
     color: #fff;
-    background-color: #000;
+    background-color: #191919;
+    border-color: #191919;
+}
+
+a .list-group-item-info {
+    color: #fff;
+}
+
+a .list-group-item-info:hover, .list-group-item-info:focus {
+    color: #fff;
+    background-color: #323232;
+    border-color: #323232;
 }
